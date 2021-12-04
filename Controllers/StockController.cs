@@ -9,7 +9,7 @@ namespace VS2019_Demos.Controllers
 {
     public class StockController : ControllerBase{
         //Hello friends how are you, I am from India
-        //Hit me once you reach home
-        //I will be waiting
+        //Hit me once you reach at home
+        //I will be wating
     }
 }

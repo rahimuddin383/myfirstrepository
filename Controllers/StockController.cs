@@ -7,7 +7,7 @@ using Microsoft.Extensions.Logging;
 
 namespace VS2019_Demos.Controllers
 {
-public class StockController : ControllerBase{
+    public class StockController : ControllerBase{
 
-}
+    }
 }
